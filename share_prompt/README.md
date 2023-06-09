@@ -1,0 +1,2 @@
+Hello guys,
+IN this project, we will be building a full stack share prompt application that will enable you share prompt with friends. the application built with Next.js a React.js extension. The prompt is using chatgpt Api for all it's response.
